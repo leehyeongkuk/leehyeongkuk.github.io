@@ -1,0 +1,30 @@
+[
+    {
+        "navTitle":"ABOUT ME",
+        "navLink":"#about",
+        "navTarget":"",
+        "navClass":"scrollPage",
+        "isNav":true
+    },
+    {
+        "navTitle":"Portfolio",
+        "navLink":"#portfolio",
+        "navTarget":"",
+        "navClass":"scrollPage",
+        "isNav":true
+    },
+    {
+        "navTitle":"Pre-Interview",
+        "navLink":"#preinterview",
+        "navTarget":"",
+        "navClass":"scrollPage",
+        "isNav":true
+    },
+    {
+        "navTitle":"Gitpage UI",
+        "navLink":"https://4thdraw.github.io",
+        "navTarget":"_blank",
+        "navClass":"btn text-white bg-dark",
+        "isNav":true
+    }
+]

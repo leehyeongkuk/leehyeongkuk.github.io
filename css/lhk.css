@@ -1,0 +1,30 @@
+.wrap #preniterview dl dt {
+    color: black;
+  }
+  .wrap #preinterview dl dt:after {
+    content: "+";
+  }
+  .wrap #preinterview dl dt.act:after {
+    content: "-";
+  }
+  .wrap #preinterview dl dt.act {
+    color: blue;
+  }
+  .wrap #preinterview dl dt.act + dd {
+    max-height: 250px;
+    padding-top: 1rem;
+  }
+  .wrap #preinterview dl dd {
+    padding: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.5s;
+  }
+  body {background-color: rgba(235, 235, 235, 1);}
+  
+  #mainNav .container a{display: block;}
+
+  #mainNav .container a img {width: 150px; display: block;}
+
+  .masthead {background-image: url(../lhk/img/3.jpg);
+             background-size: cover;}
